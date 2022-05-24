@@ -1,4 +1,4 @@
-# A*pex
+# Anytime BOA*
 we 
 C++ implementation of AnytimeBOA [1].
 
